@@ -1,6 +1,6 @@
 import Fatorial
-
+import random
 reultado = fatorial(5)
 print(fatorial)
-reultado = fatorial(10)
 print(resultado)
+print("teste insercao")
