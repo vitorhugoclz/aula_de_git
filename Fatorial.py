@@ -1,5 +1,6 @@
 def fatorial(n:int)->int:
     #comentario, teste para conflito de branch
+    '''colocado testes testes '''
     if n < 0:
         print("valor inválido")
         return
