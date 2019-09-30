@@ -1,6 +1,6 @@
-import Fatorial
+from Fatorial import fatorial
 import random
-reultado = fatorial(5)
-print(fatorial)
+resultado = fatorial(5)
+print(fatorial(-2))
 print(resultado)
 print("teste insercao")
