@@ -1,0 +1,1 @@
+ARQUIVO criado para teste nome "arquivo.txt"
